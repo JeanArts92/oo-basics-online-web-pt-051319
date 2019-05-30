@@ -9,3 +9,5 @@ class Shoe
   end 
   
 end 
+
+Adidas = Shoe.new
