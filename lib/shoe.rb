@@ -11,6 +11,7 @@ class Shoe
   def cobble
     case @condition
     when "new"
+      puts "Your shoe is as good as new!"
   
 
 end 
