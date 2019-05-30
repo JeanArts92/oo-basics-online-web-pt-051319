@@ -9,7 +9,8 @@ class Shoe
   end 
   
   def cobble
-    when
+    case @condition
+    when "new"
   
 
 end 
