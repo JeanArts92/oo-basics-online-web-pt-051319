@@ -12,6 +12,6 @@ class Shoe
     case @condition
     when "new"
       puts "Your shoe is as good as new!"
-  
-
+    else "old"
+  end
 end 
