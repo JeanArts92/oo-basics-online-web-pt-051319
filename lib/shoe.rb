@@ -10,10 +10,7 @@ class Shoe
   end 
   
   def cobble
-    case @condition
-    when "new"
-      puts "Your shoe is as good as new!"
-    else "old"
-  end
-end
+    puts "Your shoe is as good as new!"
+  end 
+  
 end 
